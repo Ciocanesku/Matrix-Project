@@ -7,7 +7,6 @@ This is a Bomberman game implemented on Arduino as a final project for the robot
 - [Game Rules](#game-rules)
 - [The Menu](#the-menu)
 - [Electronic Setup](#electronic-setup)
-- [Code Details](#code-details)
 - [Demo Video](#demo-video)
 
 ## Game Rules
