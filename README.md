@@ -11,7 +11,7 @@ This is a Bomberman game implemented on Arduino as a final project for the robot
 
 ## Game Rules
 
-The objective of the Bomberman game is to destroy all the walls by placing bombs. In the game that I developed, you need to destroy the walls using a small number of bombs, the game is finished when you succesfully destroy all the walls. The game features different difficulty levels, including Easy, Medium, and Hard modes, each with its own set of challenges, every difficulty mode representing a different percentage of map walls generated.
+The objective of the Bomberman game is to destroy all the walls by placing bombs. In the game that I developed, you need to destroy the walls using a small number of bombs, the game is finished when you succesfully destroy all the walls. The game features different difficulty levels, including Easy, Medium, and Hard modes, each with its own set of challenges, every difficulty mode representing a different percentage of map walls generated. On any difficulty level you start with 2 lives, if you stay in the range of a bomb when it explodes 1 life will be deducted, if you remain with no lives the game will end and your score will not be saved. Each bomb explodes the walls from around it (including the diagonal neighbor). 
 
 
 #### Known Bugs
