@@ -71,7 +71,7 @@ Settings submenus allow you to customize:
 
 ## Demo Video
 
-Watch the demo video of the Bomberman game on [YouTube](https://youtu.be/Mgx98ooZ_o8).
+Watch the demo video of the Bomberman game:  [Watch the video](https://youtu.be/Mgx98ooZ_o8).
 
 
 Enjoy playing the Bomberman game on Arduino! 🕹️
