@@ -169,7 +169,7 @@ char name1Score[4] ="AAA";
 char name2Score[4] ="AAA";
 char name3Score[4] ="AAA"; 
 
-bool sound = true;
+int sound = 1;
 const int soundValAddress = 1;
 
 
@@ -833,7 +833,10 @@ if (!moveRegistered)
       else if(currentOption == 2)
       {
         lcd.clear();
-        sound=!sound;
+        if(sound==1)
+          sound = 0;
+        else
+          sound = 1;
       }
       else if(currentOption == 3)
       {
@@ -1650,6 +1653,3 @@ void displayBrightness()
   }
 
 }
-
-
-
